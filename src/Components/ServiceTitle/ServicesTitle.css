@@ -1,0 +1,11 @@
+.topServiceHeading h2{
+    color: white;
+    text-decoration: double;
+    font-size: 35px;
+    padding-bottom: 20px;
+    padding-top: 40px;
+    font-weight: 700;
+}
+.topServiceHeading span{
+    color: teal;
+}

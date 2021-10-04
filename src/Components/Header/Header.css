@@ -1,8 +1,16 @@
+.header{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
 .navbar{
 padding: 20px;
 text-align: right ;
+justify-content: right;
+margin-right: 15%;
 }
 .navlink{
+
     text-decoration: none;
     color: teal;
     padding: 10px;
@@ -10,4 +18,28 @@ text-align: right ;
 }
 .navlink Button{
     color: teal;
+}
+.header h4{
+    font-weight: 800;
+    margin-top: 0;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+    padding-left: 20%;
+    color: white;
+    font-size: 30px;
+    text-decoration: dotted;
+}
+.header span{
+    color: teal;
+}
+.header hr{
+    width: 50%;
+    height: 5px;
+    border: 0;
+    background-color: white;
+    padding-top: 0;
+    margin-top: 0;
+    padding-left: 0;
+    margin-left: 20%;
 }

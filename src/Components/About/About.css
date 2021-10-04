@@ -1,0 +1,17 @@
+.about img{
+width: 300px;
+height: 250px;
+align-items: flex-end;
+margin-top: 60px;
+}
+.about .card{
+    background-color: white;
+}
+.about h5{
+    padding-top: 50px;
+    font-weight: 700;
+    font-size: 50px;
+}
+.about span{
+    color: teal;
+}

@@ -38,7 +38,6 @@ function App() {
         </Router>
       
 
-      <TopServices></TopServices>
       <Footer></Footer>
     </div>
   );

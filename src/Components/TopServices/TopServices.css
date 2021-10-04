@@ -1,0 +1,22 @@
+
+.card {
+    color: teal;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.39);
+    border-radius: 10px 10px 10px 10px;
+    border-top: 10px solid teal;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    border-left: 1px solid teal;
+    border-right: 1px solid teal;
+    border-bottom: 1px solid teal;
+    padding: 10px;
+    height: 400px;
+  }
+  .card img {
+    width: 200px;
+    height: 150px;
+    margin: auto;
+    padding-bottom: 10px;
+  }

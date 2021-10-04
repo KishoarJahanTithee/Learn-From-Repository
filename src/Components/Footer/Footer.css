@@ -1,0 +1,24 @@
+.footer{
+    padding-top: 30px;
+    padding-bottom: 10px;
+    background-color: rgba(0, 0, 0, 0.753);
+    width: 100%;
+    margin: 0;
+}
+.footer p{
+font-size: 10px;
+ color: wheat;
+}
+.footer h6{
+    margin: 0;
+    padding-bottom: 20px;
+color: wheat;
+font-size: 30px;
+}
+.footer span{
+    color: teal;
+}
+.footer small{
+    color: wheat;
+    font-size: 15px;
+}
