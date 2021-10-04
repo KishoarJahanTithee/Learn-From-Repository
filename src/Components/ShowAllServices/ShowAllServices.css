@@ -1,0 +1,12 @@
+.showAllServices Button{
+    width: 50%;
+    color: white;
+    background-color: teal;
+    padding: 5px;
+    font-weight: 600;
+    font-size: 15px;
+}
+.showAllServices Button:hover{
+    background-color: rgb(106, 182, 182);
+    color: black;
+}

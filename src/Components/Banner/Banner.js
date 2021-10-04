@@ -5,11 +5,11 @@ const Banner = () => {
     return (
         
 <div className="banner">
-<h2>LEARN 
+<h5><span>LEARN </span>
 <br></br>
     WITH 
     <br></br>
-    <span>PASSION</span></h2>
+    <span>PASSION</span></h5>
 </div>
     );
 };

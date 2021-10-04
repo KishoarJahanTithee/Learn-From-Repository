@@ -2,7 +2,7 @@
 .card {
     color: teal;
     text-align: center;
-    background-color: rgba(255, 255, 255, 0.39);
+    background-color: white;
     border-radius: 10px 10px 10px 10px;
     border-top: 10px solid teal;
     margin-left: 10px;

@@ -3,7 +3,7 @@ background-image: url('https://images.unsplash.com/photo-1606636660488-16a8646f0
 background-repeat: no-repeat;
 margin:0% 10%;
 }
-.banner h2{
+.banner h5{
     color: rgb(88, 190, 190);
     font-size: 50px;
     padding-top: 210px;
@@ -14,5 +14,5 @@ text-align:left;
 .banner span{
     color: teal;
     font-size: 4rem;
-
+font-weight: 700;
 }

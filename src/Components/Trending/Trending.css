@@ -1,9 +1,13 @@
 .trends:hover{
-    opacity: 0.8;
     background-color: rgba(0, 128, 128, 0.472);
 }
+.trends:hover Button{
+    background-color: white;
+    color: teal;
+    border: 1px solid teal;
+}
 .trends{
-    height: 400px;
+    height: fit-content;
     border: 2px solid teal;
     border-radius: 10px;
     margin: 20px 40px;
@@ -14,18 +18,16 @@
     font-weight: 700;
 }
 .trends img{
+    margin-top: 10px;
     height: 300px;
     width: 60%;
     border: 2px double teal;
 }
 .trends Button{
+    margin-bottom: 10px;
     margin-top: 10px;
     background-color: teal;
     font-weight: 700;
 color: wheat;
 }
-.trends Button:hover{
-    background-color: white;
-    color: teal;
-    border: 1px solid teal;
-}
+

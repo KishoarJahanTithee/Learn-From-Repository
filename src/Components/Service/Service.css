@@ -1,9 +1,12 @@
 .card {
     color: black;
     text-align: center;
-    background-color: rgba(255, 255, 255, 0.185);
+    /* background-color: rgba(255, 255, 255, 0.185); */
+    /* background-color: rgba(255, 255, 255, 0.664); */
+    /* background-color: rgb(106, 182, 182); */
+    background-color: white;
     border-radius: 10px 10px 10px 10px;
-    border-top: 10px solid rgb(106, 182, 182);
+    border-top: 10px solid teal;
     margin-bottom: 20px;
     border-left: 1px solid teal;
     border-right: 1px solid teal;

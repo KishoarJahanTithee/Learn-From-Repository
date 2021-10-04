@@ -12,7 +12,7 @@ const About = () => {
     <div className="col-md-8">
       <div className="card-body">
         <h5 className="card-title">Meet Our <span>Team</span></h5>
-        <p className="card-text">We are group of enthusiast people who are continously working to make this world a better one to live! You will find us by your side always whenever you are excited to enrich your vault of skills. Get Started from NOW to feel the THRILL of the SKILL!</p>
+        <p className="card-text">We are group of enthusiastic people who are continously working to make this world a better place to live! You will find us by your side always whenever you are excited to enrich your vault of skills. Get Started from NOW to feel the THRILL of the SKILL!</p>
       </div>
     </div>
   </div>

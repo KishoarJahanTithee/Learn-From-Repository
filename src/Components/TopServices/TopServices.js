@@ -7,12 +7,13 @@ const TopServices = (props) => {
 
 
     return (
-       
+       <div>
         <div className="list-card">
         <div className="card">
 <h3>{serviceName}</h3>
 <img src={img} alt="" />
 <p>{details}</p>
+</div>
 </div>
 </div>
     );

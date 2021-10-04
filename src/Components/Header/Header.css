@@ -16,6 +16,10 @@ margin-right: 15%;
     padding: 10px;
     font-weight: 400;
 }
+.navlink:hover{
+    font-weight: 700;
+    color: white;
+}
 .navlink Button{
     color: teal;
 }
