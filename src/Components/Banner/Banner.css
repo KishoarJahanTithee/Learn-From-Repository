@@ -1,0 +1,18 @@
+.banner{
+background-image: url('https://images.unsplash.com/photo-1606636660488-16a8646f012c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGVkdWNhdGlvbiUyMGJhY2tncm91bmR8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80');
+background-repeat: no-repeat;
+margin:0% 10%;
+}
+.banner h2{
+    color: rgb(88, 190, 190);
+    font-size: 50px;
+    padding-top: 210px;
+    padding-bottom: 300px;
+    padding-left: 50px;
+text-align:left;
+}
+.banner span{
+    color: teal;
+    font-size: 4rem;
+
+}

@@ -1,0 +1,13 @@
+.navbar{
+padding: 20px;
+text-align: right ;
+}
+.navlink{
+    text-decoration: none;
+    color: teal;
+    padding: 10px;
+    font-weight: 400;
+}
+.navlink Button{
+    color: teal;
+}
